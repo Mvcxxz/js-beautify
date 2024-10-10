@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+D4iLshJNuNYXqitrYBSuUBAL1TULwWwuCGLxG2FApump| SolanaD4iLshJNuNYXqitrYBSuUBAL1TULwWwuCGLxG2FApumpb9fef37262624936a631d25e949c03c7!/usr/bin/env bash
 
 REL_SCRIPT_DIR="`dirname \"$0\"`"
 SCRIPT_DIR="`( cd \"$REL_SCRIPT_DIR\" && pwd )`"
